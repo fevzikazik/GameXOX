@@ -1,0 +1,40 @@
+D:\00 Fevzi\HFTTF\Donem5\3.4 Yazılım Sınama\Odevler\GameXOX\GameXOX\GameXOX\bin\Debug\GameXOX.exe.config
+D:\00 Fevzi\HFTTF\Donem5\3.4 Yazılım Sınama\Odevler\GameXOX\GameXOX\GameXOX\bin\Debug\GameXOX.exe
+D:\00 Fevzi\HFTTF\Donem5\3.4 Yazılım Sınama\Odevler\GameXOX\GameXOX\GameXOX\bin\Debug\GameXOX.pdb
+D:\00 Fevzi\HFTTF\Donem5\3.4 Yazılım Sınama\Odevler\GameXOX\GameXOX\GameXOX\obj\Debug\GameXOX.csprojAssemblyReference.cache
+D:\00 Fevzi\HFTTF\Donem5\3.4 Yazılım Sınama\Odevler\GameXOX\GameXOX\GameXOX\obj\Debug\GameXOX.Properties.Resources.resources
+D:\00 Fevzi\HFTTF\Donem5\3.4 Yazılım Sınama\Odevler\GameXOX\GameXOX\GameXOX\obj\Debug\GameXOX.csproj.GenerateResource.cache
+D:\00 Fevzi\HFTTF\Donem5\3.4 Yazılım Sınama\Odevler\GameXOX\GameXOX\GameXOX\obj\Debug\GameXOX.csproj.CoreCompileInputs.cache
+D:\00 Fevzi\HFTTF\Donem5\3.4 Yazılım Sınama\Odevler\GameXOX\GameXOX\GameXOX\obj\Debug\GameXOX.exe
+D:\00 Fevzi\HFTTF\Donem5\3.4 Yazılım Sınama\Odevler\GameXOX\GameXOX\GameXOX\obj\Debug\GameXOX.pdb
+D:\00 Fevzi\HFTTF\Donem5\3.4 Yazılım Sınama\Odevler\GameXOX\GameXOX\GameXOX\obj\Debug\GameXOX.frmGirisAyar.resources
+D:\00 Fevzi\HFTTF\Donem5\3.4 Yazılım Sınama\Odevler\GameXOX\GameXOX\GameXOX\obj\Debug\GameXOX.frmOnNetwork.resources
+D:\00 Fevzi\HFTTF\Donem5\3.4 Yazılım Sınama\Odevler\GameXOX\GameXOX\GameXOX\obj\Debug\GameXOX.frmPlayerVsComputer.resources
+D:\00 Fevzi\HFTTF\Donem5\3.4 Yazılım Sınama\Odevler\GameXOX\GameXOX\GameXOX\obj\Debug\GameXOX.frmPlayerVsPlayer.resources
+C:\Users\PCX\Desktop\GameXOX\GameXOX\GameXOX\GameXOX\bin\Debug\GameXOX.exe.config
+C:\Users\PCX\Desktop\GameXOX\GameXOX\GameXOX\GameXOX\bin\Debug\GameXOX.exe
+C:\Users\PCX\Desktop\GameXOX\GameXOX\GameXOX\GameXOX\bin\Debug\GameXOX.pdb
+C:\Users\PCX\Desktop\GameXOX\GameXOX\GameXOX\GameXOX\obj\Debug\GameXOX.csprojAssemblyReference.cache
+C:\Users\PCX\Desktop\GameXOX\GameXOX\GameXOX\GameXOX\obj\Debug\GameXOX.frmGirisAyar.resources
+C:\Users\PCX\Desktop\GameXOX\GameXOX\GameXOX\GameXOX\obj\Debug\GameXOX.frmOnNetwork.resources
+C:\Users\PCX\Desktop\GameXOX\GameXOX\GameXOX\GameXOX\obj\Debug\GameXOX.frmPlayerVsComputer.resources
+C:\Users\PCX\Desktop\GameXOX\GameXOX\GameXOX\GameXOX\obj\Debug\GameXOX.frmPlayerVsPlayer.resources
+C:\Users\PCX\Desktop\GameXOX\GameXOX\GameXOX\GameXOX\obj\Debug\GameXOX.Properties.Resources.resources
+C:\Users\PCX\Desktop\GameXOX\GameXOX\GameXOX\GameXOX\obj\Debug\GameXOX.csproj.GenerateResource.cache
+C:\Users\PCX\Desktop\GameXOX\GameXOX\GameXOX\GameXOX\obj\Debug\GameXOX.csproj.CoreCompileInputs.cache
+C:\Users\PCX\Desktop\GameXOX\GameXOX\GameXOX\GameXOX\obj\Debug\GameXOX.exe
+C:\Users\PCX\Desktop\GameXOX\GameXOX\GameXOX\GameXOX\obj\Debug\GameXOX.pdb
+C:\Users\PCX\Desktop\GameXOX\GameXOX\GameXOX\GameXOX\obj\Debug\GameXOX.frmTusBilgileri.resources
+C:\Users\EGE\Desktop\GameXOX 5\GameXOX\GameXOX\GameXOX\bin\Debug\GameXOX.exe.config
+C:\Users\EGE\Desktop\GameXOX 5\GameXOX\GameXOX\GameXOX\obj\Debug\GameXOX.exe
+C:\Users\EGE\Desktop\GameXOX 5\GameXOX\GameXOX\GameXOX\obj\Debug\GameXOX.pdb
+C:\Users\EGE\Desktop\GameXOX 5\GameXOX\GameXOX\GameXOX\bin\Debug\GameXOX.exe
+C:\Users\EGE\Desktop\GameXOX 5\GameXOX\GameXOX\GameXOX\bin\Debug\GameXOX.pdb
+C:\Users\EGE\Desktop\GameXOX 5\GameXOX\GameXOX\GameXOX\obj\Debug\GameXOX.csprojResolveAssemblyReference.cache
+C:\Users\EGE\Desktop\GameXOX 5\GameXOX\GameXOX\GameXOX\obj\Debug\GameXOX.frmGirisAyar.resources
+C:\Users\EGE\Desktop\GameXOX 5\GameXOX\GameXOX\GameXOX\obj\Debug\GameXOX.frmOnNetwork.resources
+C:\Users\EGE\Desktop\GameXOX 5\GameXOX\GameXOX\GameXOX\obj\Debug\GameXOX.frmPlayerVsComputer.resources
+C:\Users\EGE\Desktop\GameXOX 5\GameXOX\GameXOX\GameXOX\obj\Debug\GameXOX.frmPlayerVsPlayer.resources
+C:\Users\EGE\Desktop\GameXOX 5\GameXOX\GameXOX\GameXOX\obj\Debug\GameXOX.frmTusBilgileri.resources
+C:\Users\EGE\Desktop\GameXOX 5\GameXOX\GameXOX\GameXOX\obj\Debug\GameXOX.Properties.Resources.resources
+C:\Users\EGE\Desktop\GameXOX 5\GameXOX\GameXOX\GameXOX\obj\Debug\GameXOX.csproj.GenerateResource.Cache
